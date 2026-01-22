@@ -5,7 +5,7 @@
   -   Built an interactive NYC Airbnb dashboard to surface pricing, availability, and demand trends by neighborhood.
 
 - [Coffee Shop Sales Dashboard (Excel)](https://github.com/SinmiAriyibi/coffee-shop-sales-dashboard-excel.git)
-  -   Built an interactive NYC Airbnb dashboard to surface pricing, availability, and demand trends by neighborhood.
+  -   12-month sales dashboard with KPIs, segmentation, and visual insights.
   
 
 <h2> 🤳🏽 Connect with me:</h2>

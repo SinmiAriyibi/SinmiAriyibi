@@ -24,6 +24,18 @@ I really enjoy working at the intersection of analytics and business! Turning ra
     End-to-end churn analysis using logistic regression and an executive Power BI dashboard to identify churn drivers and recommend retention strategies.
   </li>
   <br/>
+
+  <li>
+    <strong>
+      <a href="https://github.com/SinmiAriyibi/financial-inclusion-analysis-world-bank">
+        Financial Inclusion & Digital Finance Dashboard (Tableau | World Bank)
+      </a>
+    </strong>
+    <br/>
+    Comparative analysis of financial inclusion trends across 6 countries using Global Findex data, identifying 60+ percentage point gaps in mobile money adoption and formal banking access to generate policy-relevant insights.
+  </li>
+  <br/>
+
   <li>
     <strong>
       <a href="https://github.com/SinmiAriyibi/airbnb-nyc-market-analysis.git">
@@ -34,6 +46,7 @@ I really enjoy working at the intersection of analytics and business! Turning ra
     Interactive market analysis highlighting pricing, availability, and demand trends across NYC neighborhoods.
   </li>
   <br/>
+
   <li>
     <strong>
       <a href="https://github.com/SinmiAriyibi/coffee-shop-sales-dashboard-excel.git">
@@ -71,6 +84,3 @@ I’m always open to conversations around business analytics, data-driven strate
     </a>
   </li>
 </ul>
-
-
-

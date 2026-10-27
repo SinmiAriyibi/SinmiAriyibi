@@ -16,7 +16,7 @@ I get most curious about one question: **why do customers do what they do, and w
 
 ### 🛍️ Who is about to stop buying?
 4,338 customers, five segments. 30.4% of customers bring in 73% of sales, and 449 high-value customers are quietly drifting away. That's the group I'd call first.
-`Python` `Tableau` · [Repo](link) · [Dashboard](Tableau link)
+`Python` `Tableau` · [Repo](link) · [Dashboard]([Tableau link](https://public.tableau.com/views/Book1_17906862710360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ### 📉 Why do SaaS customers leave?
 Logistic regression and an executive Power BI dashboard on churn drivers, with a retention playbook at the end.

@@ -18,7 +18,9 @@ I get most curious about one question: **why do customers do what they do, and w
 4,338 customers, five segments. 30.4% of customers bring in 73% of sales, and 449 high-value customers are quietly drifting away. That's the group I'd call first.
 `Python` `Tableau` · [Repo](https://github.com/SinmiAriyibi/customer-loyalty-analysis) · [Dashboard](https://public.tableau.com/views/Book1_17906862710360/Dashboard1)
 
-*Next up: a marketing A/B test analysis.*
+### 🧪 When is an A/B test winner real?
+21,657 clean randomized Upworthy headline tests, and the winner looks bigger than it is. The top headline shows a median 41% lift, but pure luck alone would give about 25%. A typical test needs a 61% lift to detect anything, so I'd rerun the winner before shipping it.
+`Python` `Tableau` · [Repo](https://github.com/SinmiAriyibi/upworthy-ab-test) · [Dashboard](https://public.tableau.com/views/UpworthyABTestWhenIsaWinnerReal/WhenisanABtestwinnerreal)
 
 ---
 

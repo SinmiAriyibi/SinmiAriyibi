@@ -34,7 +34,7 @@ World Bank Global Findex data across 6 countries, with 60+ percentage point gaps
 Python (pandas, statsmodels) · SQL · Tableau · Power BI · Excel
 
 ## What I care about
-Using data to find the story behind the numbers, and long term, helping drive economic growth in Nigeria.
+Using data to find the story behind the numbers, and long term, helping drive economic growth in marginalized communities.
 
 ## Say hi (please :p)
 - 💼 [LinkedIn](https://linkedin.com/in/sinmi-ariyibi)

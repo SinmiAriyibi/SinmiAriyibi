@@ -1,4 +1,4 @@
-# Hey, I'm Sinmi 👋
+# Hii, I'm Sinmi!
 
 **I turn messy data into decisions people actually act on.**
 
@@ -36,7 +36,7 @@ Python (pandas, statsmodels) · SQL · Tableau · Power BI · Excel
 ## What I care about
 Using data to find the story behind the numbers, and long term, helping drive economic growth in Nigeria.
 
-## Say hi
+## Say hi (please :p)
 - 💼 [LinkedIn](https://linkedin.com/in/sinmi-ariyibi)
 - 📧 ariyibisinmi@gmail.com
 - 🖥️ [Portfolio](https://sinmiariyibi.my.canva.site)

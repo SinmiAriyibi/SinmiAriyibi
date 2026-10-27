@@ -1,86 +1,42 @@
-<h1>
-  Hi, I’m Sinmi! <br/>
-  <span>Business Analyst | Data + Strategy</span>
-</h1>
+# Hey, I'm Sinmi 👋
 
-<p>
-I’m a Business Economics student and aspiring Business Analyst with a strong interest in using data to understand customer behavior, improve decision-making, and support growth strategies.
-</p>
+**I turn messy data into decisions people actually act on.**
 
-<p>
-I really enjoy working at the intersection of analytics and business! Turning raw data into insights that stakeholders can actually act on.
-</p>
+MS Business Analytics at Simon Business School (May 2027). Before that, a B.B.A in Business Economics at Georgia State, where I figured out that my favorite part of any dataset is the moment it stops being numbers and starts explaining people.
 
-<h2> Selected Analytics Projects</h2>
+I get most curious about one question: **why do customers do what they do, and what should a business do about it?**
 
-<ul>
-  <li>
-    <strong>
-      <a href="https://github.com/SinmiAriyibi/saas-churn-retention-playbook">
-        SaaS Churn Retention Playbook (Python + Power BI)
-      </a>
-    </strong>
-    <br/>
-    End-to-end churn analysis using logistic regression and an executive Power BI dashboard to identify churn drivers and recommend retention strategies.
-  </li>
-  <br/>
+---
 
-  <li>
-    <strong>
-      <a href="https://github.com/SinmiAriyibi/financial-inclusion-analysis-world-bank">
-        Financial Inclusion & Digital Finance Dashboard (Tableau | World Bank)
-      </a>
-    </strong>
-    <br/>
-    Comparative analysis of financial inclusion trends across 6 countries using Global Findex data, identifying 60+ percentage point gaps in mobile money adoption and formal banking access to generate policy-relevant insights.
-  </li>
-  <br/>
+## What I've been digging into
 
-  <li>
-    <strong>
-      <a href="https://github.com/SinmiAriyibi/airbnb-nyc-market-analysis.git">
-        Airbnb NYC Market Dashboard (Tableau)
-      </a>
-    </strong>
-    <br/>
-    Interactive market analysis highlighting pricing, availability, and demand trends across NYC neighborhoods.
-  </li>
-  <br/>
+### 🧴 Which skincare ratings can you trust?
+791,714 Sephora reviews, and a 5.0 isn't always a 5.0. All 61 perfect-5.0 products have 17 reviews or fewer, free-product reviews rate +0.22 stars higher on the same product, and 98 strong products are hiding in plain sight.
+`Python` `SQL` `Tableau` · [Repo](link) · [Dashboard](https://public.tableau.com/app/profile/sinmi.ariyibi/viz/SkincareProductPerformanceandCustomerSatisfaction/Dashboard1)
 
-  <li>
-    <strong>
-      <a href="https://github.com/SinmiAriyibi/coffee-shop-sales-dashboard-excel.git">
-        Coffee Shop Sales Dashboard (Excel)
-      </a>
-    </strong>
-    <br/>
-    12-month sales performance dashboard with KPIs, customer segmentation, and trend analysis.
-  </li>
-</ul>
+### 🛍️ Who is about to stop buying?
+4,338 customers, five segments. 30.4% of customers bring in 73% of sales, and 449 high-value customers are quietly drifting away. That's the group I'd call first.
+`Python` `Tableau` · [Repo](link) · [Dashboard](Tableau link)
 
-<h2> Let’s Connect</h2>
+### 📉 Why do SaaS customers leave?
+Logistic regression and an executive Power BI dashboard on churn drivers, with a retention playbook at the end.
+`Python` `Power BI` · [Project](your existing link)
 
-<p>
-I’m always open to conversations around business analytics, data-driven strategy, and early-career opportunities.
-</p>
+### 🌍 Who's being left out of digital finance?
+World Bank Global Findex data across 6 countries, with 60+ percentage point gaps in mobile money and formal banking access.
+`Tableau` · [Dashboard](your existing link)
 
-<ul>
-  <li>
-    <strong>LinkedIn:</strong>
-    <a href="https://www.linkedin.com/in/sinmi-ariyibi">
-      linkedin.com/in/sinmi-ariyibi
-    </a>
-  </li>
-  <li>
-    <strong>Email:</strong>
-    <a href="mailto:sinmiariyibi@gmail.com">
-      ariyibisinmi@gmail.com
-    </a>
-  </li>
-  <li>
-    <strong>Portfolio:</strong>
-    <a href="https://sinmiariyibi.github.io/">
-      sinmiariyibi.github.io
-    </a>
-  </li>
-</ul>
+*Next up: a marketing A/B test analysis.*
+
+---
+
+## My toolkit
+Python (pandas, statsmodels) · SQL · Tableau · Power BI · Excel
+
+## What I care about
+Using data to find the story behind the numbers, and long term, helping drive economic growth in Nigeria.
+
+## Say hi
+- 💼 [LinkedIn](https://linkedin.com/in/sinmi-ariyibi)
+- 📧 ariyibisinmi@gmail.com
+- 🖥️ [Portfolio](https://sinmiariyibi.my.canva.site)
